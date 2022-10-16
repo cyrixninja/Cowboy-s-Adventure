@@ -23,18 +23,15 @@ Our webapp consist of three pages-
 We built it using HTML, CSS and JavaScript.We used scaledrone's API for our chat service and GoDaddy Domain for hosting our website.
 
 
-## Installation/Execution ✅
-
-
 ## Challenges we ran into 💻
 
 
 ## Accomplishments that we're proud of 🏆
-
+That we completed the project on time despite of not knowing much about wild west and cowboy 🤠 culture and wild west.
 
 
 ## What we learnt 📚
-
+We learned about how to host website using godaddy and GitHub pages
 
 ## What's next for Cowboys-Adventure?
 Add more Minigames and features to it
