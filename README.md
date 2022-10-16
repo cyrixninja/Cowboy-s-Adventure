@@ -1,5 +1,4 @@
-# Cowboys-Adventure ![image](https://user-images.githubusercontent.com/108334168/196016805-299b423c-677b-43aa-a68b-8f2acc17b57a.png)
-
+# Cowboys-Adventure  
 
 This project is submitted for [MLH - YeeHaw Hacks 2 2022 Hackathon](https://yeehaw-hacks-2.devpost.com/)
 
