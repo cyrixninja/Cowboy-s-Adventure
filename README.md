@@ -1,6 +1,7 @@
 # Cowboys-Adventure  
 
 This project is submitted for [MLH - YeeHaw Hacks 2 2022 Hackathon](https://yeehaw-hacks-2.devpost.com/)
+Try out our project <a href="https://cowboyisadventuro.us/">here</a>
 
 ---
 
