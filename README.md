@@ -4,6 +4,9 @@ This project is submitted for [MLH - YeeHaw Hacks 2 2022 Hackathon](https://yeeh
 
 Try out our project <a href="https://cowboyisadventuro.us/">here</a>
 
+![Image1](https://github.com/cyrixninja/Cowboys-Adventure/blob/main/img/1.png?raw=true)
+![Image2](https://github.com/cyrixninja/Cowboys-Adventure/blob/main/img/2.png?raw=true)
+
 ---
 
 The Idea behind **Cowboys-Adventure** is to build a web application which provides you a little experience of the wild west on your computer online.
@@ -18,11 +21,11 @@ The Idea behind **Cowboys-Adventure** is to build a web application which provid
 
 Our webapp consist of three pages-
 1.Chat - On this you can chat and connect with other like minded cowboys. You can tell the wildest of your Stories to fellow cowboys here and have a great time.
-
+![Image3](https://github.com/cyrixninja/Cowboys-Adventure/blob/main/img/3.png?raw=true)
 2.Horse Race Minigame - On this page you can guess and bet on the fastest winning horse in the town. If your guess is correct,you win.
-
+![Image4](https://github.com/cyrixninja/Cowboys-Adventure/blob/main/img/4.png?raw=true)
 3.Virtual Guitar- On this page you can try out our virtual Guitar made for the most talented musicians in the west.
-
+![Image5](https://github.com/cyrixninja/Cowboys-Adventure/blob/main/img/5.png?raw=true)
 ## How we built it ⚙️
 We built it using HTML, CSS and JavaScript.We used scaledrone's API for our chat service and GoDaddy Domain for hosting our website.
 
