@@ -34,7 +34,7 @@ That we completed the project on time despite of not knowing much about wild wes
 
 
 ## What we learnt 📚
-We learned about how to host website using godaddy and GitHub pages.It was very easy to host website using GoDaddy and JavaScript. We also learnt about how to make animation in javascript and integrate it all in a single website.
+We learned about how to host website using godaddy and GitHub pages.It was very easy to host website using GoDaddy and GitHub Pages. We also learnt about how to make animation in javascript and integrate it all in a single website.
 
 ## What's next for Cowboys-Adventure?
 Add more Minigames and features to it
