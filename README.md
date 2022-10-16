@@ -14,7 +14,14 @@ The Idea behind **Cowboys-Adventure** is to build a web application which
 
 ## What it does?
 
+Our webapp consist of three pages-
+1.Chat - On this you canp chat and connect with other like minded cowboys. You can tell the wildest of your Stories to fellow cowboys here and have a great time.
+2.Horse Race Minigame - On this page you can guess and bet on the fastest winning horse in the town. If your guess is correct,you win
+3.Virtual Guitar- On this page you can try out our virtual Guitar made for the most talented musicians in the west.
+
 ## How we built it ⚙️
+We built it using HTML, CSS and JavaScript.We used scaledrone's API for our chat service and GoDaddy Domain for hosting our website.
+
 
 ## Installation/Execution ✅
 
@@ -30,6 +37,7 @@ The Idea behind **Cowboys-Adventure** is to build a web application which
 
 
 ## What's next for Cowboys-Adventure?
+Add more Minigames and features to it
 
 ## Team Members:
 <a href="https://github.com/cyrixninja/Cowboys-Adventure/graphs/contributors">
