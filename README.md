@@ -15,7 +15,7 @@ The Idea behind **Cowboys-Adventure** is to build a web application which provid
 ## What it does?
 
 Our webapp consist of three pages-
-1.Chat - On this you canp chat and connect with other like minded cowboys. You can tell the wildest of your Stories to fellow cowboys here and have a great time.
+1.Chat - On this you can chat and connect with other like minded cowboys. You can tell the wildest of your Stories to fellow cowboys here and have a great time.
 
 2.Horse Race Minigame - On this page you can guess and bet on the fastest winning horse in the town. If your guess is correct,you win.
 
